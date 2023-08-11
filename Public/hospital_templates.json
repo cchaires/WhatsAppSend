@@ -1,0 +1,10 @@
+{
+  "Seguimiento Cirugía": {
+    "title": "Seguimiento Cirugía",
+    "template": "Estimado paciente, [Nombre del Paciente],\n\nEsperamos que se encuentre bien después de su cirugía. Nos gustaría conocer cómo se siente y cómo va su proceso de recuperación. Por favor, proporcione detalles sobre su estado de salud, cualquier molestia que pueda tener y si ha seguido las indicaciones médicas al pie de la letra.\n\nSi tiene alguna duda o requiere asistencia adicional, no dude en comunicarse con nosotros. Estamos aquí para brindarle el mejor cuidado posible.\n\nAtentamente,\nEl equipo médico de Seguimiento Cirugía"
+  },
+  "Consulta Médica": {
+    "title": "Consulta Médica",
+    "template": "Estimado/a [Nombre del Paciente],\n\nEsperamos que se encuentre bien. Nos gustaría saber cómo ha sido su progreso desde su última consulta médica. Por favor, infórmenos sobre sus síntomas actuales, cualquier cambio en su salud o efectividad de los tratamientos recetados.\n\nEstamos comprometidos con su bienestar y siempre estamos disponibles para responder sus preguntas y brindarle apoyo en su proceso de sanación.\n\nAtentamente,\nEl equipo médico de Consulta Médica"
+  }
+}
